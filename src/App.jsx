@@ -22,6 +22,7 @@ export default function App() {
             title="FIFA live"
             src="https://embedindia.st/embed/wc/2026-07-11/arg-sui/fox-en"
             allow="autoplay; encrypted-media; fullscreen"
+            sandbox={false}
             allowFullScreen
             loading="eager"
             referrerPolicy="no-referrer-when-downgrade"
